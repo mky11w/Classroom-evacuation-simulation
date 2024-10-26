@@ -1,1 +1,2 @@
 # Classroom-evacuation-simulation
+This project presents a pedestrian behavior modeling in which a classroom student flow was analyzed. Different classroom layouts and evacuation schemes are presented, and their impact on classroom evacuation efficiency is simulated using Anylogic accordingly. The results show that the overall evacuation time can be effectively reduced by  organizing the students flow and setting reasonable classroom layouts. This result can provide useful insights for school policy makers in designing campus evacuation plan. 
